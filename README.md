@@ -19,8 +19,8 @@
 </ul>
 <h1 id="workshop-structure">Workshop Structure</h1>
 <p>The actual content of this workshop is split into different parts, each different part represents a different topic that we will be covering and a different concept that we will learn! Each part is in it’s own git branch!</p>
-<p>If you don’t know how to switch branches in git, you can do so with the web interface by clicking this button and then choosing a branch from the pop-up that appears:<br>
-<img src="https://i.imgur.com/L1FcTSM.png" alt="Switching Branches"></p>
+<p>If you don’t know how to switch branches in git, you can do so with the web interface by clicking the branch button near the top left of the Github window and selecting a branch, the button's text will correspond to the current branch that you're on.<br>
+
 <p>If you’re familiar with git, you can also clone the repo to your local file system using Github Desktop, or by typing <code>git clone https://github.com/Kav-K/RUHacks-API-Workshop</code> and then switch branches with <code>git checkout &lt;branch name&gt;</code></p>
 <p>All of the materials you will need for the workshop (except the prerequisites) are all in this repository. In case you get bored of listening to me or have other commitments to attend to during the workshop time slot, you can work on this workshop at home as long as you have this link!</p>
 
